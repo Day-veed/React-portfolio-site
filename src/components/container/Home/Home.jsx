@@ -52,7 +52,7 @@ const Home = () => {
         <div
           className="ui"
         >
-          UI/UX Designer
+          Mobile Developer
         </div>
         <div
           className="freelance"
